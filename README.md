@@ -13,4 +13,4 @@ Because the data is too large, you can access it at this link: [WeTransfer Downl
 - **[Medical Consultant System](./dataset/consultation)**: Data are in the `data/consultation` folder.
   - Files starting with '[med_qa](./dataset/consultation/)' contain raw questions and responses, concatenated by 'tab'.
   - Files starting with '[med_Ga](./dataset/consultation/)' contain supplementary information from the knowledge graph, formatted as 'question\tinformation\tresponse'.
-  - `[med_Ga_train.txt](./dataset/consultation/med_Ga_train.txt)` and `[med_qa_train.txt](./dataset/consultation/med_qa_train.txt)` refer to the training set, while the others refer to the testing set.
+  - '[med_Ga_train.txt](./dataset/consultation/med_Ga_train.txt)' and '[med_qa_train.txt](./dataset/consultation/med_qa_train.txt)' refer to the training set, while the others refer to the testing set.
