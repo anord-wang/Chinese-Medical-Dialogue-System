@@ -2,7 +2,8 @@
 
 Here is the code and data in the paper: LCMDC: Large-scale Chinese Medical Dialogue Corpora for Automatic Triage and Medical Consultation.
 
-Because the data is too large, you can access it at this link: [WeTransfer Download Link](https://we.tl/t-scDvwQ32W1)
+Because the data is too large, you can access it at this link: [WeTransfer Download Link](https://we.tl/t-scDvwQ32W1) or [Baidu Disk Download Link](链接：https://pan.baidu.com/s/15XtsqDmzic3nIb6ZIFri4g 
+提取码：iy3b)
 
 ## Dataset Description
 
