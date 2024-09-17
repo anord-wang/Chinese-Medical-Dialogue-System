@@ -1,4 +1,4 @@
-# ICDM-Submission
+# LCMDC-Submission
 
 Here is the code and data in the paper: LCMDC: Large-scale Chinese Medical Dialogue Corpora for Automatic Triage and Medical Consultation.
 
