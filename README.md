@@ -1,6 +1,6 @@
-# LCMDC-Submission
+# Chinese Medical Dialogue System
 
-Here is the code and data in the paper: LCMDC: Large-scale Chinese Medical Dialogue Corpora for Automatic Triage and Medical Consultation.
+The code and data in the paper: Building a Chinese Medical Dialogue System: Integrating Large-scale Corpora and Novel Models.
 
 Because the data is too large, you can access it at this link: [Zenodo Download Link](https://zenodo.org/records/13771008?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTcyNjU1NDAwMiwiZXhwIjoxNzM1NjAzMTk5fQ.eyJpZCI6IjA4Y2M0MDMyLTE0NTctNGZkZi1iYjAxLTBkZmQyYjRiNzVlZiIsImRhdGEiOnt9LCJyYW5kb20iOiI0OTExZTBhNzIyMjg5NzFhMmJmZWRhN2JmY2E2ZTljZCJ9.l7HobRPQVtt5gWBXs-2AuOsBX5fYViYkqKePsoDAvTmFYAu_1sH-2f1XwtWJJlppEAdd3C0wdWF7MbCtFLP6kA) or [Baidu Disk Download Link](https://pan.baidu.com/s/15XtsqDmzic3nIb6ZIFri4g) with code: **iy3b**
 
